@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+washingspider/__init__.py
+washingspider/ui_extension_example.py
+washingspider.egg-info/PKG-INFO
+washingspider.egg-info/SOURCES.txt
+washingspider.egg-info/dependency_links.txt
+washingspider.egg-info/not-zip-safe
+washingspider.egg-info/requires.txt
+washingspider.egg-info/top_level.txt
